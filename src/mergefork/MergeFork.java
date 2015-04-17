@@ -20,8 +20,9 @@ public class MergeFork extends javax.swing.JFrame
 {
     private String[] contributorArray = new String[]
     {
-        "Linley Mamonis",
+        "Ken Weber",
         "CSIS Student",
+        "Linley Mamonis"
     };
     
     /**
